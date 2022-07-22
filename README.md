@@ -1,7 +1,8 @@
 # José Lourenço, Estudante de Programação e Técnologia 📚🖥️
 
-- 🔭 Trabalho com Automação Industrial na LAR COOPERATIVA AGROINDUSTRIAL
-- 📚🖥️ Estou Estudando Programação com foco em FullStacks na Alura
+- 🔭 A procura de uma oportunidade como programador, Estagio/Junior
+- 📚🖥️ Cusando Analise e Desenvolvimento de Sistemas - Uninter
+       Estudando Programação com foco em FullStacks na Alura
 - 🖥️ Entendo um pouco de Linux
 
 <div align="center">
