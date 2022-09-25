@@ -1,8 +1,6 @@
-# José Lourenço, Estudante de Programação e Técnologia 📚🖥️
-
-- 🔭 A procura de uma oportunidade como programador, Estagio/Junior
+# OI eu sou José Lourenço
+- 👩‍💻 Programador Jr na SWA Sistemas. Atuo na area de Migração de dados.
 - 📚🖥️ Cusando Analise e Desenvolvimento de Sistemas - Uninter
-       Estudando Programação com foco em FullStacks na Alura
 - 🖥️ Entendo um pouco de Linux
 
 <div align="center">
