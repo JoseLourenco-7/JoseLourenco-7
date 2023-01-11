@@ -1,5 +1,5 @@
 # José Lourenço - Dev Samurai
-- 👩‍💻 Programador Jr na SWA Sistemas. Atuo na area de Migração de dados.
+- 👩‍💻 Programador Jr at SWA Sistemas. Atuo na area de Migração de dados.
 - 📚🖥️ Cusando Analise e Desenvolvimento de Sistemas - Uninter
 - 🖥️ Entendo um pouco de Linux
 
