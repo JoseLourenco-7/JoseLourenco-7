@@ -35,7 +35,7 @@
   
    
   <p align="center"> 
-    profile views<br>
+    Profile Views<br>
    <img src="https://profile-counter.glitch.me/dev-samurai/count.svg" />
   </p>
  
