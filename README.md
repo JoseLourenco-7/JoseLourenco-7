@@ -22,6 +22,7 @@
   <img align="center" alt="Samurai-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
   <img align="right" alt="Samurai-pic" height="200" width="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/b3/ff/e6/b3ffe664427ebe14ac71d25a1de42ccb.jpg">
+ 
 </div>
   
   ##
@@ -31,5 +32,11 @@
   <a href="https://instagram.com/joselourenco_s7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:josern1771@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joselourenco-ti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+   
+  <p align="center"> 
+    profile views<br>
+   <img src="https://profile-counter.glitch.me/dev-samurai/count.svg" />
+  </p>
  
 </div>
