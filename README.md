@@ -1,5 +1,5 @@
 # José Lourenço - Dev Samurai
-- 👩‍💻 Programador Jr at SWA Sistemas. Atuando na area de Migração de dados.
+- 👩‍💻 Programador Jr at SWA Sistemas. Atuando no desenvolvimento do sistema JACAD usando como tecnologia principal JAVA e MySQL, e responsavel por ajustes e desenvolvimento de relatorios com uso do iReport Jasper, também com JAVA e MySQL.
 - 🖥️ Entendo um pouco de Linux
 
 <div align="center">
