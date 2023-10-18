@@ -3,10 +3,10 @@
 - 🖥️ Entendo um pouco de Linux
 
 <div align="center">
-  <a href="https://github.com/Dev-Samurai7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Samurai7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/JoseLourenco-7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseLourenco-7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Samurai7&layout=compact&langs_count=6&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLourenco-7&layout=compact&langs_count=6&theme=tokyonight"/>
       
 </div>
 
@@ -39,7 +39,7 @@
    
   <p align="center"> 
     Profile Views<br>
-   <img src="https://profile-counter.glitch.me/Dev-Samurai7/count.svg" />
+   <img src="https://profile-counter.glitch.me/JoseLourenco-7/count.svg" />
   </p>
  
 </div>
