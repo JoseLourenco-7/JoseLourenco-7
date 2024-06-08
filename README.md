@@ -1,6 +1,5 @@
 # José Lourenço - Dev Samurai
-- 👩‍💻 Programador Jr no Grupo SWA. Atuando no desenvolvimento do sistema JACAD usando como tecnologia principal JAVA e MySQL.
-- Responsavel por ajustes, resoluções de bugs no sistema, criação e manutenção de relatorios com uso do iReport Jasper.
+- 👩‍💻 Programador Jr
 - 🖥️ Entendo um pouco de Linux
 
 <div align="center">
